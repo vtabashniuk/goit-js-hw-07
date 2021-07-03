@@ -27,3 +27,19 @@ ul {
 .item__image:hover {
   transform: scale(110%);
 }
+
+#value {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.positive {
+  color: green;
+}
+
+.negative {
+  color: red;
+}
